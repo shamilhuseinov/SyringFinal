@@ -1,0 +1,17 @@
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/Common.dll
+/Users/samil/Projects/MVCFinalProject/DataAccess/bin/Debug/net7.0/Common.pdb
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/samil/Projects/MVCFinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

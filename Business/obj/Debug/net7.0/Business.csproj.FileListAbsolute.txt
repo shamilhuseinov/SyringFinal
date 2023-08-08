@@ -1,0 +1,17 @@
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/Business.deps.json
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/Business.dll
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/Business.pdb
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/Common.dll
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/samil/Projects/MVCFinalProject/Business/bin/Debug/net7.0/Common.pdb
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.dll
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/Business.pdb
+/Users/samil/Projects/MVCFinalProject/Business/obj/Debug/net7.0/ref/Business.dll

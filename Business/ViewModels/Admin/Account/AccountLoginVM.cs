@@ -1,0 +1,15 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace Business.ViewModels.Admin.Account
+{
+	public class AccountLoginVM
+	{
+		[Required]
+		public string Username { get; set; }
+
+		[Required]
+		public string Password { get; set; }
+	}
+}
+

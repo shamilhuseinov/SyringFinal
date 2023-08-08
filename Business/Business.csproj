@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\Category\" />
+    <None Remove="Microsoft.AspNetCore.Mvc.Core" />
+    <None Remove="ViewModels\User\" />
+    <None Remove="ViewModels\User\Account\" />
+    <None Remove="ViewModels\Admin\" />
+    <None Remove="ViewModels\Admin\Account\" />
+    <None Remove="Services\Admin\" />
+    <None Remove="Services\User\" />
+    <None Remove="Services\User\Abstract\" />
+    <None Remove="Services\User\Concrete\" />
+    <None Remove="Services\Admin\Concrete\" />
+    <None Remove="Services\Admin\Abstract\" />
+    <None Remove="ViewModels\Admin\Slider\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\Category\" />
+    <Folder Include="ViewModels\User\" />
+    <Folder Include="ViewModels\User\Account\" />
+    <Folder Include="ViewModels\Admin\" />
+    <Folder Include="ViewModels\Admin\Account\" />
+    <Folder Include="Services\Admin\" />
+    <Folder Include="Services\User\" />
+    <Folder Include="Services\User\Abstract\" />
+    <Folder Include="Services\User\Concrete\" />
+    <Folder Include="Services\Admin\Concrete\" />
+    <Folder Include="Services\Admin\Abstract\" />
+    <Folder Include="ViewModels\Admin\Slider\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+</Project>
